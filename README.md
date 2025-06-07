@@ -1,2 +1,3 @@
 # rest-spring-boot
-Repositório utilizado para estudo
+
+Aplicação utilizada para estudo do usuário afromera
